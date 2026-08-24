@@ -1,0 +1,8 @@
+
+Employee Report
+===============
+
+Employee ID : {{ employee.id }}
+Name        : {{ employee.name }}
+Department  : {{ employee.department }}
+Salary      : {{ employee.salary }}
